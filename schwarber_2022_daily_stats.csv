@@ -1,0 +1,156 @@
+Date,Home Tm,Away Tm,PA,AB,R,H,2B,3B,HR,RBI,BB,SO,SB,CS,HBP,AVG,OBP,SLG,OPS,day_of_week
+2022-04-08, Philadelphia Phillies, Oakland Athletics,5,4,2,2,0,0,1,2,1,0,0,0,0,0.500,0.600,1.250,1.850,Friday
+2022-04-09, Philadelphia Phillies, Oakland Athletics,4,2,0,0,0,0,0,0,2,0,0,0,0,0.333,0.556,0.833,1.389,Saturday
+2022-04-10, Philadelphia Phillies, Oakland Athletics,4,4,0,0,0,0,0,0,0,1,0,0,0,0.200,0.385,0.500,0.885,Sunday
+2022-04-11, Philadelphia Phillies, New York Mets,4,4,1,0,0,0,0,1,0,3,0,0,0,0.143,0.294,0.357,0.651,Monday
+2022-04-12, Philadelphia Phillies, New York Mets,4,4,0,0,0,0,0,0,0,1,0,0,0,0.111,0.238,0.278,0.516,Tuesday
+2022-04-13, Philadelphia Phillies, New York Mets,5,4,0,0,0,0,0,0,1,3,0,0,0,0.091,0.231,0.227,0.458,Wednesday
+2022-04-14, Miami Marlins, Philadelphia Phillies,5,5,1,1,1,0,0,0,0,2,0,0,0,0.111,0.226,0.259,0.485,Thursday
+2022-04-15, Miami Marlins, Philadelphia Phillies,5,5,0,0,0,0,0,0,0,2,0,0,0,0.094,0.194,0.219,0.413,Friday
+2022-04-17, Miami Marlins, Philadelphia Phillies,4,4,1,2,0,0,1,1,0,1,0,0,0,0.139,0.225,0.333,0.558,Sunday
+2022-04-18, Colorado Rockies, Philadelphia Phillies,4,4,0,0,0,0,0,0,0,0,0,0,0,0.125,0.205,0.300,0.505,Monday
+2022-04-19, Colorado Rockies, Philadelphia Phillies,4,4,1,2,0,0,1,3,0,1,0,0,0,0.159,0.229,0.386,0.615,Tuesday
+2022-04-20, Colorado Rockies, Philadelphia Phillies,5,3,3,1,0,0,1,2,1,1,0,0,1,0.170,0.264,0.447,0.711,Wednesday
+2022-04-22, Philadelphia Phillies, Milwaukee Brewers,4,4,0,0,0,0,0,0,0,2,0,0,0,0.157,0.246,0.412,0.658,Friday
+2022-04-23, Philadelphia Phillies, Milwaukee Brewers,4,4,0,1,0,0,0,0,0,1,0,0,0,0.164,0.246,0.400,0.646,Saturday
+2022-04-24, Philadelphia Phillies, Milwaukee Brewers,4,4,0,1,1,0,0,0,0,2,0,0,0,0.169,0.246,0.407,0.653,Sunday
+2022-04-25, Philadelphia Phillies, Colorado Rockies,4,3,0,1,1,0,0,2,1,2,0,0,0,0.177,0.261,0.419,0.680,Monday
+2022-04-26, Philadelphia Phillies, Colorado Rockies,4,2,1,0,0,0,0,0,2,1,0,0,0,0.172,0.274,0.406,0.680,Tuesday
+2022-04-27, Philadelphia Phillies, Colorado Rockies,4,3,0,0,0,0,0,0,1,2,0,0,0,0.164,0.273,0.388,0.661,Wednesday
+2022-04-29, New York Mets, Philadelphia Phillies,3,0,0,0,0,0,0,0,3,0,1,0,0,0.164,0.300,0.388,0.688,Friday
+2022-04-30, New York Mets, Philadelphia Phillies,4,4,1,1,0,0,1,2,0,1,0,0,0,0.169,0.298,0.423,0.721,Saturday
+2022-05-01, New York Mets, Philadelphia Phillies,4,4,2,3,0,0,2,3,0,0,0,0,0,0.200,0.318,0.520,0.838,Sunday
+2022-05-03, Philadelphia Phillies, Texas Rangers,5,5,0,0,0,0,0,0,0,2,0,0,0,0.188,0.301,0.488,0.789,Tuesday
+2022-05-04, Philadelphia Phillies, Texas Rangers,4,3,0,1,0,0,0,0,1,0,0,0,0,0.193,0.309,0.482,0.791,Wednesday
+2022-05-05, Philadelphia Phillies, New York Mets,5,4,2,1,1,0,0,0,1,1,0,0,0,0.195,0.314,0.483,0.797,Thursday
+2022-05-08, Philadelphia Phillies, New York Mets,4,4,1,2,0,0,0,0,0,1,1,0,0,0.209,0.321,0.484,0.805,Sunday
+2022-05-08, Philadelphia Phillies, New York Mets,4,4,0,1,0,0,0,0,0,2,0,0,0,0.211,0.318,0.474,0.792,Sunday
+2022-05-09, Seattle Mariners, Philadelphia Phillies,5,5,0,0,0,0,0,0,0,1,0,0,0,0.200,0.304,0.450,0.754,Monday
+2022-05-10, Seattle Mariners, Philadelphia Phillies,4,4,0,0,0,0,0,0,0,3,0,0,0,0.192,0.294,0.433,0.727,Tuesday
+2022-05-11, Seattle Mariners, Philadelphia Phillies,4,4,0,0,0,0,0,0,0,3,0,0,0,0.185,0.285,0.417,0.702,Wednesday
+2022-05-12, Los Angeles Dodgers, Philadelphia Phillies,4,3,1,1,0,0,0,2,0,1,0,0,0,0.189,0.283,0.414,0.697,Thursday
+2022-05-13, Los Angeles Dodgers, Philadelphia Phillies,6,5,2,1,0,0,1,2,1,1,0,0,0,0.190,0.286,0.431,0.717,Friday
+2022-05-14, Los Angeles Dodgers, Philadelphia Phillies,4,4,1,1,0,0,1,1,0,2,0,0,0,0.192,0.285,0.450,0.735,Saturday
+2022-05-15, Los Angeles Dodgers, Philadelphia Phillies,5,2,0,0,0,0,0,0,2,0,0,0,1,0.189,0.296,0.443,0.739,Sunday
+2022-05-17, Philadelphia Phillies, San Diego Padres,4,4,0,0,0,0,0,0,0,4,0,0,0,0.183,0.288,0.429,0.717,Tuesday
+2022-05-18, Philadelphia Phillies, San Diego Padres,3,2,1,1,0,0,0,0,1,1,0,0,0,0.188,0.295,0.430,0.725,Wednesday
+2022-05-19, Philadelphia Phillies, San Diego Padres,4,4,0,1,0,0,0,0,0,1,0,0,0,0.189,0.294,0.424,0.718,Thursday
+2022-05-20, Philadelphia Phillies, Los Angeles Dodgers,4,4,1,2,2,0,0,0,0,1,0,0,0,0.199,0.299,0.441,0.740,Friday
+2022-05-21, Philadelphia Phillies, Los Angeles Dodgers,4,4,1,1,0,0,1,1,0,1,0,0,0,0.200,0.298,0.457,0.755,Saturday
+2022-05-22, Philadelphia Phillies, Los Angeles Dodgers,4,3,0,1,0,0,0,0,1,2,0,0,0,0.203,0.303,0.455,0.758,Sunday
+2022-05-23, Atlanta Braves, Philadelphia Phillies,5,2,2,0,0,0,0,0,3,2,0,0,0,0.200,0.312,0.448,0.760,Monday
+2022-05-24, Atlanta Braves, Philadelphia Phillies,4,3,0,1,0,0,0,0,1,1,0,0,0,0.203,0.316,0.446,0.762,Tuesday
+2022-05-25, Atlanta Braves, Philadelphia Phillies,4,4,0,0,0,0,0,0,0,2,0,0,0,0.197,0.309,0.434,0.743,Wednesday
+2022-05-26, Atlanta Braves, Philadelphia Phillies,4,3,1,0,0,0,0,0,1,0,0,0,0,0.194,0.308,0.426,0.734,Thursday
+2022-05-27, New York Mets, Philadelphia Phillies,4,3,0,0,0,0,0,0,1,2,0,0,0,0.190,0.306,0.418,0.724,Friday
+2022-05-28, New York Mets, Philadelphia Phillies,5,4,0,0,0,0,0,0,1,1,0,0,0,0.185,0.304,0.407,0.711,Saturday
+2022-05-29, New York Mets, Philadelphia Phillies,5,4,0,0,0,0,0,0,1,2,0,0,0,0.181,0.301,0.398,0.699,Sunday
+2022-05-30, Philadelphia Phillies, San Francisco Giants,4,4,1,2,0,0,1,1,0,1,0,0,0,0.188,0.305,0.418,0.723,Monday
+2022-05-31, Philadelphia Phillies, San Francisco Giants,6,3,0,0,0,0,0,0,3,1,0,0,0,0.185,0.311,0.410,0.721,Tuesday
+2022-06-01, Philadelphia Phillies, San Francisco Giants,4,4,1,2,0,0,1,2,0,1,0,0,0,0.192,0.314,0.429,0.743,Wednesday
+2022-06-03, Philadelphia Phillies, Los Angeles Angels,4,3,3,2,0,0,2,2,1,0,0,0,0,0.200,0.322,0.467,0.789,Friday
+2022-06-04, Philadelphia Phillies, Los Angeles Angels,5,4,1,1,1,0,0,0,1,1,0,0,0,0.201,0.324,0.467,0.791,Saturday
+2022-06-05, Philadelphia Phillies, Los Angeles Angels,5,4,1,0,0,0,0,0,1,2,0,0,0,0.197,0.321,0.457,0.778,Sunday
+2022-06-07, Milwaukee Brewers, Philadelphia Phillies,5,3,0,0,0,0,0,0,2,1,0,0,0,0.194,0.323,0.450,0.773,Tuesday
+2022-06-08, Milwaukee Brewers, Philadelphia Phillies,5,5,2,4,2,0,0,2,0,0,0,0,0,0.209,0.333,0.469,0.802,Wednesday
+2022-06-09, Milwaukee Brewers, Philadelphia Phillies,5,5,2,1,0,0,1,2,0,3,0,0,0,0.209,0.331,0.478,0.809,Thursday
+2022-06-10, Philadelphia Phillies, Arizona Diamondbacks,4,4,1,1,0,0,1,3,0,1,0,0,0,0.210,0.329,0.488,0.817,Friday
+2022-06-11, Philadelphia Phillies, Arizona Diamondbacks,4,4,0,1,0,0,0,0,0,1,1,0,0,0.211,0.328,0.483,0.811,Saturday
+2022-06-12, Philadelphia Phillies, Arizona Diamondbacks,4,3,0,0,0,0,0,0,1,1,0,0,0,0.208,0.327,0.476,0.803,Sunday
+2022-06-13, Philadelphia Phillies, Miami Marlins,5,5,1,2,1,0,0,0,0,2,0,0,0,0.212,0.328,0.479,0.807,Monday
+2022-06-14, Philadelphia Phillies, Miami Marlins,5,2,2,0,0,0,0,0,3,1,0,0,0,0.210,0.333,0.475,0.808,Tuesday
+2022-06-15, Philadelphia Phillies, Miami Marlins,4,3,0,0,0,0,0,0,1,1,0,0,0,0.207,0.332,0.468,0.800,Wednesday
+2022-06-16, Washington Nationals, Philadelphia Phillies,5,4,2,2,0,0,2,3,1,0,0,0,0,0.212,0.337,0.496,0.833,Thursday
+2022-06-17, Washington Nationals, Philadelphia Phillies,5,4,1,1,1,0,0,0,1,3,0,0,0,0.213,0.338,0.496,0.834,Friday
+2022-06-17, Washington Nationals, Philadelphia Phillies,5,3,3,1,0,0,0,0,2,1,0,0,0,0.215,0.343,0.494,0.837,Friday
+2022-06-18, Washington Nationals, Philadelphia Phillies,5,3,0,0,0,0,0,0,2,0,0,0,0,0.212,0.344,0.487,0.831,Saturday
+2022-06-19, Washington Nationals, Philadelphia Phillies,4,4,1,1,0,0,0,0,0,0,0,0,0,0.213,0.343,0.483,0.826,Sunday
+2022-06-21, Texas Rangers, Philadelphia Phillies,4,4,0,1,0,0,0,0,0,1,0,0,0,0.213,0.341,0.480,0.821,Tuesday
+2022-06-22, Texas Rangers, Philadelphia Phillies,4,4,1,1,0,0,1,2,0,2,0,0,0,0.214,0.340,0.488,0.828,Wednesday
+2022-06-23, San Diego Padres, Philadelphia Phillies,4,4,1,2,0,0,1,2,0,0,0,0,0,0.218,0.342,0.500,0.842,Thursday
+2022-06-24, San Diego Padres, Philadelphia Phillies,5,4,0,0,0,0,0,0,1,2,0,0,0,0.215,0.340,0.492,0.832,Friday
+2022-06-25, San Diego Padres, Philadelphia Phillies,4,4,0,1,0,0,0,1,0,1,1,0,0,0.215,0.339,0.488,0.827,Saturday
+2022-06-26, San Diego Padres, Philadelphia Phillies,5,5,1,2,1,0,1,4,0,2,0,0,0,0.219,0.340,0.502,0.842,Sunday
+2022-06-28, Philadelphia Phillies, Atlanta Braves,5,3,2,1,0,0,1,1,2,0,0,0,0,0.220,0.344,0.511,0.855,Tuesday
+2022-06-29, Philadelphia Phillies, Atlanta Braves,4,4,0,0,0,0,0,0,0,2,0,0,0,0.217,0.340,0.504,0.844,Wednesday
+2022-06-30, Philadelphia Phillies, Atlanta Braves,4,4,1,1,0,0,1,3,0,1,0,0,0,0.217,0.338,0.511,0.849,Thursday
+2022-07-01, Philadelphia Phillies, St. Louis Cardinals,4,4,0,2,0,0,0,1,0,0,0,0,0,0.221,0.340,0.511,0.851,Friday
+2022-07-02, Philadelphia Phillies, St. Louis Cardinals,5,5,0,0,0,0,0,0,0,4,0,0,0,0.218,0.335,0.502,0.837,Saturday
+2022-07-03, Philadelphia Phillies, St. Louis Cardinals,4,4,0,0,0,0,0,0,0,1,0,0,0,0.215,0.331,0.495,0.826,Sunday
+2022-07-05, Philadelphia Phillies, Washington Nationals,4,3,3,2,0,0,2,2,1,1,0,0,0,0.219,0.336,0.517,0.853,Tuesday
+2022-07-06, Philadelphia Phillies, Washington Nationals,4,4,2,3,0,0,2,2,0,1,0,1,0,0.226,0.341,0.541,0.882,Wednesday
+2022-07-07, Philadelphia Phillies, Washington Nationals,4,3,0,0,0,0,0,1,1,2,0,0,0,0.224,0.340,0.535,0.875,Thursday
+2022-07-08, St. Louis Cardinals, Philadelphia Phillies,4,4,0,0,0,0,0,0,0,1,0,0,0,0.221,0.336,0.528,0.864,Friday
+2022-07-09, St. Louis Cardinals, Philadelphia Phillies,4,3,0,0,0,0,0,0,1,0,0,0,0,0.219,0.335,0.523,0.858,Saturday
+2022-07-10, St. Louis Cardinals, Philadelphia Phillies,5,5,2,2,0,0,1,1,0,1,0,0,0,0.222,0.336,0.531,0.867,Sunday
+2022-07-11, St. Louis Cardinals, Philadelphia Phillies,4,4,0,0,0,0,0,0,0,2,0,0,0,0.219,0.332,0.524,0.856,Monday
+2022-07-12, Toronto Blue Jays, Philadelphia Phillies,4,4,0,0,0,0,0,0,0,1,0,0,0,0.216,0.329,0.517,0.846,Tuesday
+2022-07-13, Toronto Blue Jays, Philadelphia Phillies,4,4,0,0,0,0,0,0,0,3,0,0,0,0.214,0.325,0.511,0.836,Wednesday
+2022-07-15, Miami Marlins, Philadelphia Phillies,4,4,0,0,0,0,0,0,0,4,0,0,0,0.211,0.322,0.505,0.827,Friday
+2022-07-16, Miami Marlins, Philadelphia Phillies,5,5,1,1,0,0,1,1,0,2,0,0,0,0.211,0.320,0.509,0.829,Saturday
+2022-07-17, Miami Marlins, Philadelphia Phillies,4,4,0,0,0,0,0,0,0,2,0,0,0,0.208,0.317,0.503,0.820,Sunday
+2022-07-22, Philadelphia Phillies, Chicago Cubs,4,4,1,1,0,0,1,1,0,0,0,0,0,0.209,0.316,0.509,0.825,Friday
+2022-07-23, Philadelphia Phillies, Chicago Cubs,4,3,0,0,0,0,0,0,1,3,0,0,0,0.207,0.316,0.504,0.820,Saturday
+2022-07-24, Philadelphia Phillies, Chicago Cubs,4,4,0,0,0,0,0,0,0,1,0,0,0,0.205,0.313,0.499,0.812,Sunday
+2022-07-25, Philadelphia Phillies, Atlanta Braves,4,4,0,0,0,0,0,0,0,1,0,0,0,0.202,0.310,0.493,0.803,Monday
+2022-07-26, Philadelphia Phillies, Atlanta Braves,4,4,1,1,0,0,1,1,0,2,0,0,0,0.203,0.309,0.499,0.808,Tuesday
+2022-07-27, Philadelphia Phillies, Atlanta Braves,4,3,0,0,0,0,0,1,0,1,0,0,0,0.201,0.306,0.494,0.800,Wednesday
+2022-07-28, Pittsburgh Pirates, Philadelphia Phillies,5,5,1,2,0,0,1,3,0,0,0,0,0,0.204,0.307,0.501,0.808,Thursday
+2022-07-29, Pittsburgh Pirates, Philadelphia Phillies,5,5,0,1,0,0,0,1,0,2,0,0,0,0.204,0.306,0.497,0.803,Friday
+2022-07-30, Pittsburgh Pirates, Philadelphia Phillies,5,4,0,1,1,0,0,0,1,1,0,0,0,0.204,0.307,0.497,0.804,Saturday
+2022-07-31, Pittsburgh Pirates, Philadelphia Phillies,5,5,1,1,0,0,1,1,0,1,0,0,0,0.204,0.306,0.501,0.807,Sunday
+2022-08-02, Atlanta Braves, Philadelphia Phillies,4,2,0,0,0,0,0,0,2,2,1,0,0,0.203,0.308,0.499,0.807,Tuesday
+2022-08-03, Atlanta Braves, Philadelphia Phillies,4,3,0,0,0,0,0,0,0,2,0,0,1,0.202,0.307,0.495,0.802,Wednesday
+2022-08-04, Philadelphia Phillies, Washington Nationals,3,3,1,1,0,0,0,0,0,1,0,0,0,0.203,0.307,0.494,0.801,Thursday
+2022-08-05, Philadelphia Phillies, Washington Nationals,4,3,1,1,0,0,1,1,1,2,0,0,0,0.204,0.309,0.500,0.809,Friday
+2022-08-06, Philadelphia Phillies, Washington Nationals,5,4,0,0,0,0,0,0,1,2,0,0,0,0.202,0.308,0.495,0.803,Saturday
+2022-08-07, Philadelphia Phillies, Washington Nationals,5,5,1,2,1,0,0,0,0,1,0,0,0,0.204,0.309,0.496,0.805,Sunday
+2022-08-09, Philadelphia Phillies, Miami Marlins,4,4,1,2,1,0,0,0,0,1,0,0,0,0.207,0.310,0.499,0.809,Tuesday
+2022-08-10, Philadelphia Phillies, Miami Marlins,4,4,1,3,1,0,0,2,0,0,1,0,0,0.212,0.314,0.504,0.818,Wednesday
+2022-08-11, Philadelphia Phillies, Miami Marlins,3,2,0,0,0,0,0,0,1,1,0,0,0,0.211,0.314,0.501,0.815,Thursday
+2022-08-13, New York Mets, Philadelphia Phillies,1,1,0,0,0,0,0,0,0,0,0,0,0,0.211,0.314,0.500,0.814,Saturday
+2022-08-17, Cincinnati Reds, Philadelphia Phillies,1,1,0,0,0,0,0,0,0,0,0,0,0,0.210,0.313,0.499,0.812,Wednesday
+2022-08-19, Philadelphia Phillies, New York Mets,5,5,0,2,0,0,0,2,0,2,0,0,0,0.213,0.314,0.498,0.812,Friday
+2022-08-20, Philadelphia Phillies, New York Mets,5,5,0,0,0,0,0,0,0,2,0,0,0,0.210,0.311,0.492,0.803,Saturday
+2022-08-20, Philadelphia Phillies, New York Mets,5,4,2,2,1,1,0,0,1,1,0,0,0,0.213,0.314,0.499,0.813,Saturday
+2022-08-21, Philadelphia Phillies, New York Mets,5,3,2,2,0,0,0,0,2,0,0,0,0,0.216,0.318,0.500,0.818,Sunday
+2022-08-22, Philadelphia Phillies, Cincinnati Reds,4,4,0,0,0,0,0,0,0,4,0,0,0,0.214,0.316,0.495,0.811,Monday
+2022-08-23, Philadelphia Phillies, Cincinnati Reds,4,4,0,0,0,0,0,0,0,3,0,0,0,0.212,0.313,0.491,0.804,Tuesday
+2022-08-24, Philadelphia Phillies, Cincinnati Reds,5,4,0,1,0,0,0,1,1,0,0,0,0,0.212,0.314,0.489,0.803,Wednesday
+2022-08-25, Philadelphia Phillies, Cincinnati Reds,4,4,1,1,0,0,1,1,0,2,0,0,0,0.213,0.314,0.493,0.807,Thursday
+2022-08-26, Philadelphia Phillies, Pittsburgh Pirates,4,4,2,1,1,0,0,0,0,0,0,0,0,0.213,0.313,0.493,0.806,Friday
+2022-08-27, Philadelphia Phillies, Pittsburgh Pirates,5,4,1,1,0,0,0,0,1,2,0,0,0,0.213,0.314,0.491,0.805,Saturday
+2022-08-28, Philadelphia Phillies, Pittsburgh Pirates,4,4,0,0,0,0,0,0,0,2,0,0,0,0.211,0.312,0.487,0.799,Sunday
+2022-08-29, Arizona Diamondbacks, Philadelphia Phillies,5,5,1,2,0,0,1,4,0,1,0,0,0,0.214,0.313,0.492,0.805,Monday
+2022-08-30, Arizona Diamondbacks, Philadelphia Phillies,3,3,0,0,0,0,0,0,0,2,0,0,0,0.212,0.311,0.489,0.800,Tuesday
+2022-08-31, Arizona Diamondbacks, Philadelphia Phillies,7,6,1,2,0,0,0,1,1,2,0,0,0,0.214,0.312,0.487,0.799,Wednesday
+2022-09-02, San Francisco Giants, Philadelphia Phillies,3,3,0,0,0,0,0,0,0,2,0,0,0,0.212,0.311,0.484,0.795,Friday
+2022-09-03, San Francisco Giants, Philadelphia Phillies,5,4,0,2,1,1,0,0,1,0,0,0,0,0.215,0.313,0.491,0.804,Saturday
+2022-09-04, San Francisco Giants, Philadelphia Phillies,5,5,0,1,0,0,0,0,0,3,0,0,0,0.215,0.312,0.488,0.800,Sunday
+2022-09-06, Philadelphia Phillies, Miami Marlins,4,4,0,1,0,0,0,0,0,2,0,0,0,0.215,0.312,0.486,0.798,Tuesday
+2022-09-07, Philadelphia Phillies, Miami Marlins,4,4,0,0,0,0,0,0,0,2,0,0,0,0.213,0.309,0.482,0.791,Wednesday
+2022-09-08, Philadelphia Phillies, Miami Marlins,4,4,1,0,0,0,0,0,0,1,0,0,0,0.211,0.307,0.478,0.785,Thursday
+2022-09-09, Philadelphia Phillies, Washington Nationals,4,4,0,1,0,0,0,0,0,0,0,0,0,0.212,0.307,0.476,0.783,Friday
+2022-09-10, Philadelphia Phillies, Washington Nationals,5,3,1,2,1,0,1,1,2,1,0,0,0,0.214,0.311,0.485,0.796,Saturday
+2022-09-11, Philadelphia Phillies, Washington Nationals,5,4,1,1,0,0,0,0,1,1,0,0,0,0.215,0.312,0.483,0.795,Sunday
+2022-09-13, Miami Marlins, Philadelphia Phillies,4,3,0,0,0,0,0,0,1,0,1,0,0,0.213,0.312,0.480,0.792,Tuesday
+2022-09-14, Miami Marlins, Philadelphia Phillies,5,5,1,1,0,0,0,0,0,2,0,0,0,0.213,0.311,0.477,0.788,Wednesday
+2022-09-15, Miami Marlins, Philadelphia Phillies,4,3,1,1,0,0,1,1,1,0,0,0,0,0.214,0.312,0.482,0.794,Thursday
+2022-09-16, Atlanta Braves, Philadelphia Phillies,4,4,1,1,0,0,1,1,0,1,0,0,0,0.214,0.311,0.486,0.797,Friday
+2022-09-17, Atlanta Braves, Philadelphia Phillies,5,5,0,1,0,0,0,0,0,0,0,0,0,0.214,0.311,0.484,0.795,Saturday
+2022-09-18, Atlanta Braves, Philadelphia Phillies,4,2,0,0,0,0,0,0,2,1,0,0,0,0.213,0.312,0.482,0.794,Sunday
+2022-09-20, Philadelphia Phillies, Toronto Blue Jays,5,5,2,2,0,0,1,3,0,0,0,0,0,0.215,0.313,0.487,0.800,Tuesday
+2022-09-21, Philadelphia Phillies, Toronto Blue Jays,5,5,0,1,0,0,0,1,0,2,1,0,0,0.215,0.312,0.484,0.796,Wednesday
+2022-09-22, Philadelphia Phillies, Atlanta Braves,4,3,0,0,0,0,0,0,1,2,0,0,0,0.214,0.311,0.481,0.792,Thursday
+2022-09-23, Philadelphia Phillies, Atlanta Braves,5,4,1,0,0,0,0,0,1,3,0,0,0,0.212,0.310,0.478,0.788,Friday
+2022-09-24, Philadelphia Phillies, Atlanta Braves,4,3,0,0,0,0,0,0,1,1,0,0,0,0.211,0.310,0.475,0.785,Saturday
+2022-09-25, Philadelphia Phillies, Atlanta Braves,5,3,3,2,0,0,2,2,2,1,0,0,0,0.214,0.314,0.487,0.801,Sunday
+2022-09-27, Chicago Cubs, Philadelphia Phillies,4,3,0,0,0,0,0,0,1,1,0,0,0,0.212,0.313,0.485,0.798,Tuesday
+2022-09-28, Chicago Cubs, Philadelphia Phillies,5,4,2,1,1,0,0,0,0,1,1,0,1,0.213,0.314,0.485,0.799,Wednesday
+2022-09-29, Chicago Cubs, Philadelphia Phillies,4,2,0,0,0,0,0,0,2,1,0,0,0,0.212,0.315,0.483,0.798,Thursday
+2022-09-30, Washington Nationals, Philadelphia Phillies,5,5,0,0,0,0,0,0,0,2,0,0,0,0.210,0.313,0.479,0.792,Friday
+2022-10-01, Washington Nationals, Philadelphia Phillies,4,3,1,1,0,1,0,0,1,1,1,0,0,0.211,0.314,0.481,0.795,Saturday
+2022-10-01, Washington Nationals, Philadelphia Phillies,5,4,2,3,0,0,2,2,1,1,0,0,0,0.214,0.318,0.494,0.812,Saturday
+2022-10-02, Washington Nationals, Philadelphia Phillies,4,3,0,2,0,0,0,3,1,0,0,0,0,0.217,0.320,0.495,0.815,Sunday
+2022-10-03, Houston Astros, Philadelphia Phillies,5,3,2,2,0,0,2,2,2,0,0,0,0,0.219,0.324,0.506,0.830,Monday
+2022-10-05, Houston Astros, Philadelphia Phillies,2,2,0,0,0,0,0,0,0,1,0,0,0,0.218,0.323,0.504,0.827,Wednesday

@@ -1,0 +1,158 @@
+Date,Home Tm,Away Tm,PA,AB,R,H,2B,3B,HR,RBI,BB,SO,SB,CS,HBP,AVG,OBP,SLG,OPS,day_of_week
+2022-04-08, New York Yankees, Boston Red Sox,5,5,1,2,1,0,0,0,0,1,0,0,0,0.400,0.400,0.600,1.000,Friday
+2022-04-09, New York Yankees, Boston Red Sox,4,3,1,0,0,0,0,0,1,0,0,0,0,0.250,0.333,0.375,0.708,Saturday
+2022-04-10, New York Yankees, Boston Red Sox,5,5,0,2,0,0,0,0,0,2,1,0,0,0.308,0.357,0.385,0.742,Sunday
+2022-04-11, New York Yankees, Toronto Blue Jays,4,3,0,0,0,0,0,0,1,2,0,0,0,0.250,0.333,0.313,0.646,Monday
+2022-04-12, New York Yankees, Toronto Blue Jays,4,4,0,1,1,0,0,0,0,0,0,0,0,0.250,0.318,0.350,0.668,Tuesday
+2022-04-13, New York Yankees, Toronto Blue Jays,5,4,1,2,0,0,1,1,1,1,0,0,0,0.292,0.370,0.500,0.870,Wednesday
+2022-04-14, New York Yankees, Toronto Blue Jays,4,4,1,1,1,0,0,0,0,1,0,0,0,0.286,0.355,0.500,0.855,Thursday
+2022-04-15, Baltimore Orioles, New York Yankees,1,1,0,0,0,0,0,0,0,0,0,0,0,0.276,0.344,0.483,0.827,Friday
+2022-04-16, Baltimore Orioles, New York Yankees,5,3,1,1,0,0,0,0,1,1,0,0,0,0.281,0.361,0.469,0.830,Saturday
+2022-04-17, Baltimore Orioles, New York Yankees,4,3,0,0,0,0,0,0,1,2,0,0,0,0.257,0.350,0.429,0.779,Sunday
+2022-04-19, Detroit Tigers, New York Yankees,5,5,0,1,0,0,0,0,0,3,0,0,0,0.250,0.333,0.400,0.733,Tuesday
+2022-04-20, Detroit Tigers, New York Yankees,4,4,0,1,1,0,0,1,0,1,0,0,0,0.250,0.327,0.409,0.736,Wednesday
+2022-04-21, Detroit Tigers, New York Yankees,4,3,0,1,0,0,0,0,1,0,0,0,0,0.255,0.340,0.404,0.744,Thursday
+2022-04-22, New York Yankees, Cleveland Guardians,4,3,2,2,0,0,2,3,1,0,0,0,0,0.280,0.368,0.540,0.908,Friday
+2022-04-23, New York Yankees, Cleveland Guardians,4,4,0,0,0,0,0,0,0,0,0,0,0,0.259,0.344,0.500,0.844,Saturday
+2022-04-24, New York Yankees, Cleveland Guardians,4,3,1,1,1,0,0,0,1,1,0,0,0,0.263,0.354,0.509,0.863,Sunday
+2022-04-26, New York Yankees, Baltimore Orioles,5,5,2,2,0,0,1,1,0,2,0,0,0,0.274,0.357,0.548,0.905,Tuesday
+2022-04-27, New York Yankees, Baltimore Orioles,4,4,1,2,0,0,0,0,0,2,0,0,0,0.288,0.365,0.545,0.910,Wednesday
+2022-04-28, New York Yankees, Baltimore Orioles,5,5,2,2,0,0,1,4,0,1,0,0,0,0.296,0.367,0.577,0.944,Thursday
+2022-04-29, Kansas City Royals, New York Yankees,4,4,1,1,0,0,1,3,0,2,0,0,0,0.293,0.361,0.600,0.961,Friday
+2022-05-01, Kansas City Royals, New York Yankees,5,5,2,2,0,0,2,3,0,2,0,0,0,0.300,0.364,0.663,1.027,Sunday
+2022-05-02, Toronto Blue Jays, New York Yankees,4,4,0,1,0,0,0,0,0,1,1,0,0,0.298,0.359,0.643,1.002,Monday
+2022-05-03, Toronto Blue Jays, New York Yankees,5,5,1,2,1,0,1,3,0,3,0,0,0,0.303,0.361,0.674,1.035,Tuesday
+2022-05-04, Toronto Blue Jays, New York Yankees,4,3,0,0,0,0,0,0,1,3,0,0,0,0.293,0.356,0.652,1.008,Wednesday
+2022-05-08, New York Yankees, Texas Rangers,4,3,1,1,0,0,0,0,1,0,0,0,0,0.295,0.362,0.642,1.004,Sunday
+2022-05-08, New York Yankees, Texas Rangers,4,4,0,0,0,0,0,0,0,1,0,0,0,0.283,0.349,0.616,0.965,Sunday
+2022-05-09, New York Yankees, Texas Rangers,4,3,1,1,0,0,0,0,1,1,0,0,0,0.284,0.354,0.608,0.962,Monday
+2022-05-10, New York Yankees, Toronto Blue Jays,5,5,2,2,0,0,1,3,0,1,0,0,0,0.290,0.356,0.626,0.982,Tuesday
+2022-05-11, New York Yankees, Toronto Blue Jays,4,4,0,1,0,0,0,0,0,0,0,0,0,0.288,0.352,0.613,0.965,Wednesday
+2022-05-12, Chicago White Sox, New York Yankees,6,4,3,2,0,0,1,4,1,2,0,0,0,0.296,0.359,0.635,0.994,Thursday
+2022-05-13, Chicago White Sox, New York Yankees,5,3,3,2,0,0,1,1,2,1,0,0,0,0.305,0.376,0.661,1.037,Friday
+2022-05-14, Chicago White Sox, New York Yankees,4,3,1,1,0,0,0,0,1,1,0,0,0,0.306,0.380,0.653,1.033,Saturday
+2022-05-15, Chicago White Sox, New York Yankees,4,4,0,0,0,0,0,0,0,1,0,0,0,0.296,0.369,0.632,1.001,Sunday
+2022-05-17, Baltimore Orioles, New York Yankees,5,5,2,4,1,0,2,3,0,0,0,0,0,0.315,0.384,0.692,1.076,Tuesday
+2022-05-18, Baltimore Orioles, New York Yankees,4,4,0,0,0,0,0,0,0,1,0,0,0,0.306,0.373,0.672,1.045,Wednesday
+2022-05-19, Baltimore Orioles, New York Yankees,5,3,2,1,0,0,0,0,2,1,0,0,0,0.307,0.381,0.664,1.045,Thursday
+2022-05-21, New York Yankees, Chicago White Sox,4,3,0,1,0,0,0,0,1,0,0,0,0,0.307,0.384,0.657,1.041,Saturday
+2022-05-22, New York Yankees, Chicago White Sox,4,4,1,3,0,0,1,1,0,1,0,0,0,0.319,0.393,0.681,1.074,Sunday
+2022-05-22, New York Yankees, Chicago White Sox,4,4,0,1,1,0,0,0,0,2,0,0,0,0.318,0.389,0.676,1.065,Sunday
+2022-05-23, New York Yankees, Baltimore Orioles,4,3,2,2,0,0,2,3,1,1,0,0,0,0.325,0.398,0.715,1.113,Monday
+2022-05-24, New York Yankees, Baltimore Orioles,5,5,0,0,0,0,0,0,0,2,0,0,0,0.314,0.386,0.692,1.078,Tuesday
+2022-05-25, New York Yankees, Baltimore Orioles,4,4,1,1,1,0,0,0,0,0,0,0,0,0.313,0.383,0.688,1.071,Wednesday
+2022-05-26, Tampa Bay Rays, New York Yankees,5,3,1,1,0,0,0,2,1,0,1,0,0,0.313,0.384,0.681,1.065,Thursday
+2022-05-27, Tampa Bay Rays, New York Yankees,4,4,0,0,0,0,0,0,0,2,0,0,0,0.305,0.376,0.665,1.041,Friday
+2022-05-28, Tampa Bay Rays, New York Yankees,4,4,0,1,0,0,0,0,0,2,0,0,0,0.304,0.373,0.655,1.028,Saturday
+2022-05-29, Tampa Bay Rays, New York Yankees,4,4,1,2,0,0,1,1,0,1,0,0,0,0.309,0.376,0.669,1.045,Sunday
+2022-05-31, New York Yankees, Los Angeles Angels,5,3,1,0,0,0,0,1,1,1,0,0,0,0.303,0.371,0.657,1.028,Tuesday
+2022-06-02, New York Yankees, Los Angeles Angels,5,4,1,2,0,0,1,1,1,1,0,0,0,0.308,0.377,0.670,1.047,Thursday
+2022-06-02, New York Yankees, Los Angeles Angels,4,3,0,0,0,0,0,0,1,2,0,0,0,0.303,0.374,0.659,1.033,Thursday
+2022-06-03, New York Yankees, Detroit Tigers,5,5,2,4,0,0,1,2,0,0,0,0,0,0.316,0.384,0.679,1.063,Friday
+2022-06-04, New York Yankees, Detroit Tigers,4,3,1,1,0,0,1,1,1,0,0,0,0,0.316,0.386,0.689,1.075,Saturday
+2022-06-05, New York Yankees, Detroit Tigers,5,5,1,1,0,0,0,0,0,2,0,0,0,0.313,0.382,0.677,1.059,Sunday
+2022-06-07, Minnesota Twins, New York Yankees,6,5,2,2,0,0,1,3,1,2,0,0,0,0.315,0.385,0.685,1.070,Tuesday
+2022-06-08, Minnesota Twins, New York Yankees,4,3,0,0,0,0,0,0,1,1,0,0,0,0.311,0.383,0.675,1.058,Wednesday
+2022-06-09, Minnesota Twins, New York Yankees,5,4,2,1,1,0,0,0,1,0,0,0,0,0.310,0.383,0.671,1.054,Thursday
+2022-06-10, New York Yankees, Chicago Cubs,6,4,0,1,0,0,0,0,2,1,0,0,0,0.308,0.386,0.664,1.050,Friday
+2022-06-11, New York Yankees, Chicago Cubs,4,3,2,2,0,0,2,3,0,0,0,0,0,0.313,0.388,0.691,1.079,Saturday
+2022-06-12, New York Yankees, Chicago Cubs,6,6,2,3,0,0,0,0,0,2,0,0,0,0.318,0.391,0.686,1.077,Sunday
+2022-06-14, New York Yankees, Tampa Bay Rays,4,4,0,0,0,0,0,0,0,0,0,0,0,0.313,0.385,0.674,1.059,Tuesday
+2022-06-15, New York Yankees, Tampa Bay Rays,3,3,1,1,0,0,1,1,0,2,0,0,0,0.313,0.384,0.683,1.067,Wednesday
+2022-06-16, New York Yankees, Tampa Bay Rays,4,2,0,0,0,0,0,0,2,0,1,0,0,0.310,0.386,0.677,1.063,Thursday
+2022-06-17, Toronto Blue Jays, New York Yankees,6,5,1,2,0,0,0,0,1,1,0,0,0,0.312,0.388,0.671,1.059,Friday
+2022-06-18, Toronto Blue Jays, New York Yankees,5,5,0,0,0,0,0,0,0,1,0,0,0,0.306,0.381,0.657,1.038,Saturday
+2022-06-19, Toronto Blue Jays, New York Yankees,5,4,1,1,1,0,0,1,1,2,0,0,0,0.305,0.382,0.654,1.036,Sunday
+2022-06-20, Tampa Bay Rays, New York Yankees,4,3,0,0,0,0,0,0,1,2,1,0,0,0.301,0.380,0.647,1.027,Monday
+2022-06-21, Tampa Bay Rays, New York Yankees,1,1,0,0,0,0,0,0,0,0,0,0,0,0.300,0.378,0.644,1.022,Tuesday
+2022-06-22, Tampa Bay Rays, New York Yankees,5,5,2,2,0,0,2,2,0,1,0,0,0,0.302,0.379,0.663,1.042,Wednesday
+2022-06-23, New York Yankees, Houston Astros,5,5,1,2,0,0,0,1,0,1,0,0,0,0.304,0.379,0.658,1.037,Thursday
+2022-06-24, New York Yankees, Houston Astros,4,4,0,0,0,0,0,0,0,1,0,0,0,0.299,0.374,0.648,1.022,Friday
+2022-06-25, New York Yankees, Houston Astros,4,4,0,0,0,0,0,0,0,2,0,0,0,0.295,0.369,0.638,1.007,Saturday
+2022-06-26, New York Yankees, Houston Astros,5,4,1,1,0,0,1,3,1,0,0,0,0,0.294,0.370,0.643,1.013,Sunday
+2022-06-27, New York Yankees, Oakland Athletics,5,4,1,1,0,0,0,1,0,1,0,0,0,0.293,0.368,0.638,1.006,Monday
+2022-06-28, New York Yankees, Oakland Athletics,4,4,0,0,0,0,0,0,0,3,0,0,0,0.289,0.364,0.629,0.993,Tuesday
+2022-06-29, New York Yankees, Oakland Athletics,4,3,2,1,0,0,1,2,1,1,0,0,0,0.290,0.365,0.636,1.001,Wednesday
+2022-06-30, Houston Astros, New York Yankees,4,4,0,0,0,0,0,0,0,1,0,0,0,0.286,0.361,0.627,0.988,Thursday
+2022-07-02, Cleveland Guardians, New York Yankees,5,3,2,1,1,0,0,0,2,0,1,0,0,0.286,0.364,0.628,0.992,Saturday
+2022-07-02, Cleveland Guardians, New York Yankees,4,4,0,0,0,0,0,0,0,2,0,0,0,0.282,0.360,0.619,0.979,Saturday
+2022-07-03, Cleveland Guardians, New York Yankees,1,0,0,0,0,0,0,0,1,0,0,0,0,0.282,0.362,0.619,0.981,Sunday
+2022-07-05, Pittsburgh Pirates, New York Yankees,5,5,0,1,0,0,0,1,0,1,0,0,0,0.281,0.360,0.612,0.972,Tuesday
+2022-07-06, Pittsburgh Pirates, New York Yankees,5,4,1,3,1,0,1,4,1,1,1,0,0,0.287,0.366,0.627,0.993,Wednesday
+2022-07-08, Boston Red Sox, New York Yankees,6,5,0,0,0,0,0,0,1,3,0,0,0,0.282,0.363,0.617,0.980,Friday
+2022-07-09, Boston Red Sox, New York Yankees,5,5,1,2,1,0,0,1,0,2,0,0,0,0.284,0.363,0.617,0.980,Saturday
+2022-07-10, Boston Red Sox, New York Yankees,5,5,1,1,0,0,0,0,0,1,0,0,0,0.283,0.361,0.610,0.971,Sunday
+2022-07-12, New York Yankees, Cincinnati Reds,1,1,0,0,0,0,0,0,0,1,0,0,0,0.282,0.360,0.608,0.968,Tuesday
+2022-07-13, New York Yankees, Cincinnati Reds,5,4,0,0,0,0,0,0,1,3,1,0,0,0.279,0.358,0.601,0.959,Wednesday
+2022-07-14, New York Yankees, Cincinnati Reds,5,4,2,1,0,0,1,1,1,1,0,0,0,0.278,0.358,0.606,0.964,Thursday
+2022-07-15, New York Yankees, Boston Red Sox,5,5,0,0,0,0,0,0,0,2,0,0,0,0.274,0.354,0.596,0.950,Friday
+2022-07-16, New York Yankees, Boston Red Sox,4,3,3,3,0,0,2,3,1,0,0,0,0,0.281,0.360,0.618,0.978,Saturday
+2022-07-17, New York Yankees, Boston Red Sox,4,3,2,2,0,0,0,1,0,0,0,0,1,0.284,0.364,0.618,0.982,Sunday
+2022-07-21, Houston Astros, New York Yankees,4,2,0,0,0,0,0,0,1,0,0,0,1,0.282,0.366,0.615,0.981,Thursday
+2022-07-21, Houston Astros, New York Yankees,5,4,2,1,0,0,1,3,1,3,0,0,0,0.282,0.366,0.619,0.985,Thursday
+2022-07-22, Baltimore Orioles, New York Yankees,4,4,2,2,0,0,2,4,0,1,0,0,0,0.284,0.368,0.635,1.003,Friday
+2022-07-23, Baltimore Orioles, New York Yankees,5,5,0,4,2,0,0,2,0,0,1,0,0,0.292,0.373,0.643,1.016,Saturday
+2022-07-24, Baltimore Orioles, New York Yankees,5,4,2,2,0,0,1,2,1,2,0,0,0,0.294,0.376,0.650,1.026,Sunday
+2022-07-26, New York Mets, New York Yankees,5,4,1,2,0,0,1,1,1,1,0,0,0,0.296,0.378,0.657,1.035,Tuesday
+2022-07-27, New York Mets, New York Yankees,5,5,0,0,0,0,0,0,0,3,0,0,0,0.292,0.374,0.648,1.022,Wednesday
+2022-07-28, New York Yankees, Kansas City Royals,4,3,1,1,0,0,1,1,1,2,1,0,0,0.293,0.375,0.653,1.028,Thursday
+2022-07-29, New York Yankees, Kansas City Royals,5,5,2,3,0,0,2,6,0,1,0,0,0,0.297,0.378,0.668,1.046,Friday
+2022-07-30, New York Yankees, Kansas City Royals,5,3,2,2,0,0,1,2,2,0,0,0,0,0.300,0.382,0.676,1.058,Saturday
+2022-07-31, New York Yankees, Kansas City Royals,5,3,1,0,0,0,0,0,2,1,0,0,0,0.297,0.383,0.671,1.054,Sunday
+2022-08-01, New York Yankees, Seattle Mariners,4,4,2,2,1,0,1,2,0,1,0,0,0,0.299,0.384,0.680,1.064,Monday
+2022-08-02, New York Yankees, Seattle Mariners,5,2,0,0,0,0,0,0,3,1,0,0,0,0.298,0.386,0.676,1.062,Tuesday
+2022-08-05, St. Louis Cardinals, New York Yankees,5,4,2,2,0,0,0,0,1,0,1,0,0,0.300,0.389,0.674,1.063,Friday
+2022-08-06, St. Louis Cardinals, New York Yankees,4,4,0,1,0,0,0,0,0,0,0,0,0,0.299,0.387,0.670,1.057,Saturday
+2022-08-07, St. Louis Cardinals, New York Yankees,6,5,0,2,1,0,0,4,1,2,0,0,0,0.301,0.389,0.669,1.058,Sunday
+2022-08-08, Seattle Mariners, New York Yankees,5,4,2,2,1,0,1,1,0,1,0,0,1,0.303,0.391,0.677,1.068,Monday
+2022-08-09, Seattle Mariners, New York Yankees,5,3,0,1,0,0,0,0,2,1,0,1,0,0.303,0.393,0.675,1.068,Tuesday
+2022-08-10, Seattle Mariners, New York Yankees,4,2,1,1,0,0,1,1,2,0,0,0,0,0.304,0.396,0.681,1.077,Wednesday
+2022-08-12, Boston Red Sox, New York Yankees,5,2,2,1,0,0,1,1,2,1,1,0,1,0.305,0.400,0.688,1.088,Friday
+2022-08-13, Boston Red Sox, New York Yankees,4,2,0,0,0,0,0,0,2,1,0,0,0,0.303,0.401,0.684,1.085,Saturday
+2022-08-14, Boston Red Sox, New York Yankees,4,4,0,0,0,0,0,0,0,3,0,0,0,0.300,0.398,0.678,1.076,Sunday
+2022-08-15, New York Yankees, Tampa Bay Rays,4,4,0,1,0,0,0,0,0,1,0,0,0,0.300,0.397,0.674,1.071,Monday
+2022-08-16, New York Yankees, Tampa Bay Rays,4,4,0,0,0,0,0,0,0,2,0,0,0,0.297,0.394,0.667,1.061,Tuesday
+2022-08-17, New York Yankees, Tampa Bay Rays,5,3,2,1,1,0,0,1,2,0,0,0,0,0.297,0.396,0.667,1.063,Wednesday
+2022-08-18, New York Yankees, Toronto Blue Jays,4,4,0,0,0,0,0,1,0,1,0,0,0,0.295,0.393,0.661,1.054,Thursday
+2022-08-19, New York Yankees, Toronto Blue Jays,4,2,0,0,0,0,0,0,1,0,0,0,0,0.293,0.392,0.658,1.050,Friday
+2022-08-20, New York Yankees, Toronto Blue Jays,4,4,0,2,0,0,0,0,0,2,1,0,0,0.295,0.393,0.657,1.050,Saturday
+2022-08-21, New York Yankees, Toronto Blue Jays,4,3,0,0,0,0,0,0,0,2,0,0,1,0.293,0.392,0.652,1.044,Sunday
+2022-08-22, New York Yankees, New York Mets,4,4,1,2,0,0,1,1,0,1,0,0,0,0.295,0.393,0.658,1.051,Monday
+2022-08-23, New York Yankees, New York Mets,4,4,1,2,0,0,1,2,0,1,1,0,0,0.297,0.394,0.663,1.057,Tuesday
+2022-08-25, Oakland Athletics, New York Yankees,5,4,0,1,0,0,0,1,1,0,0,0,0,0.296,0.394,0.659,1.053,Thursday
+2022-08-26, Oakland Athletics, New York Yankees,5,2,1,1,0,0,1,3,3,0,0,0,0,0.297,0.397,0.665,1.062,Friday
+2022-08-27, Oakland Athletics, New York Yankees,4,3,0,0,0,0,0,0,1,1,0,1,0,0.295,0.396,0.661,1.057,Saturday
+2022-08-28, Oakland Athletics, New York Yankees,4,4,0,0,0,0,0,0,0,3,0,0,0,0.293,0.393,0.655,1.048,Sunday
+2022-08-29, Los Angeles Angels, New York Yankees,4,2,1,1,0,0,1,1,2,0,0,0,0,0.294,0.396,0.661,1.057,Monday
+2022-08-30, Los Angeles Angels, New York Yankees,5,5,2,3,0,0,1,3,0,1,0,0,0,0.297,0.398,0.667,1.065,Tuesday
+2022-08-31, Los Angeles Angels, New York Yankees,4,2,0,0,0,0,0,0,2,2,1,0,0,0.296,0.399,0.664,1.063,Wednesday
+2022-09-02, Tampa Bay Rays, New York Yankees,4,2,0,0,0,0,0,0,1,2,0,0,0,0.294,0.398,0.661,1.059,Friday
+2022-09-03, Tampa Bay Rays, New York Yankees,4,4,1,2,0,0,1,1,0,2,0,0,0,0.296,0.399,0.666,1.065,Saturday
+2022-09-04, Tampa Bay Rays, New York Yankees,5,5,2,3,1,0,1,1,0,0,0,0,0,0.299,0.401,0.674,1.075,Sunday
+2022-09-05, New York Yankees, Minnesota Twins,4,3,2,2,1,0,1,2,1,1,0,0,0,0.302,0.403,0.682,1.085,Monday
+2022-09-07, New York Yankees, Minnesota Twins,5,3,1,1,0,0,1,1,2,1,0,0,0,0.302,0.405,0.686,1.091,Wednesday
+2022-09-07, New York Yankees, Minnesota Twins,5,2,0,0,0,0,0,0,3,2,1,0,0,0.301,0.407,0.683,1.090,Wednesday
+2022-09-08, New York Yankees, Minnesota Twins,5,4,1,2,1,0,0,0,1,0,0,0,0,0.302,0.408,0.684,1.092,Thursday
+2022-09-09, New York Yankees, Tampa Bay Rays,5,4,0,2,0,0,0,1,1,2,0,0,0,0.304,0.410,0.682,1.092,Friday
+2022-09-10, New York Yankees, Tampa Bay Rays,4,4,1,3,0,0,0,1,0,1,0,0,0,0.307,0.412,0.683,1.095,Saturday
+2022-09-11, New York Yankees, Tampa Bay Rays,5,4,1,1,0,0,0,1,0,1,0,0,0,0.307,0.410,0.679,1.089,Sunday
+2022-09-13, Boston Red Sox, New York Yankees,5,4,3,3,0,0,2,2,1,0,0,1,0,0.310,0.414,0.692,1.106,Tuesday
+2022-09-14, Boston Red Sox, New York Yankees,5,4,1,1,0,0,0,0,1,2,0,0,0,0.310,0.413,0.688,1.101,Wednesday
+2022-09-16, Milwaukee Brewers, New York Yankees,5,4,2,2,0,0,0,0,1,1,0,0,0,0.311,0.415,0.687,1.102,Friday
+2022-09-17, Milwaukee Brewers, New York Yankees,4,3,0,1,1,0,0,0,1,1,0,0,0,0.312,0.415,0.687,1.102,Saturday
+2022-09-18, Milwaukee Brewers, New York Yankees,6,5,3,4,1,0,2,4,1,0,0,0,0,0.316,0.419,0.701,1.120,Sunday
+2022-09-20, New York Yankees, Pittsburgh Pirates,5,4,1,1,0,0,1,1,1,1,0,0,0,0.316,0.419,0.703,1.122,Tuesday
+2022-09-21, New York Yankees, Pittsburgh Pirates,5,4,2,2,2,0,0,0,1,1,0,0,0,0.317,0.421,0.705,1.126,Wednesday
+2022-09-22, New York Yankees, Boston Red Sox,5,2,0,0,0,0,0,0,3,1,0,0,0,0.316,0.422,0.703,1.125,Thursday
+2022-09-23, New York Yankees, Boston Red Sox,4,4,0,1,0,0,0,0,0,2,0,0,0,0.315,0.421,0.699,1.120,Friday
+2022-09-24, New York Yankees, Boston Red Sox,4,3,0,0,0,0,0,0,1,2,0,0,0,0.314,0.420,0.696,1.116,Saturday
+2022-09-25, New York Yankees, Boston Red Sox,3,2,0,1,1,0,0,0,1,0,0,0,0,0.314,0.421,0.697,1.118,Sunday
+2022-09-26, Toronto Blue Jays, New York Yankees,5,3,1,1,0,0,0,0,2,2,0,0,0,0.314,0.422,0.695,1.117,Monday
+2022-09-27, Toronto Blue Jays, New York Yankees,5,1,2,0,0,0,0,0,4,0,0,0,0,0.314,0.425,0.693,1.118,Tuesday
+2022-09-28, Toronto Blue Jays, New York Yankees,5,4,2,1,0,0,1,2,1,0,0,0,0,0.313,0.425,0.696,1.121,Wednesday
+2022-09-30, New York Yankees, Baltimore Orioles,4,2,0,1,0,0,0,0,2,1,0,0,0,0.314,0.427,0.695,1.122,Friday
+2022-10-01, New York Yankees, Baltimore Orioles,5,2,1,0,0,0,0,0,2,2,0,0,1,0.313,0.428,0.692,1.120,Saturday
+2022-10-02, New York Yankees, Baltimore Orioles,4,3,0,0,0,0,0,0,1,3,0,0,0,0.311,0.427,0.689,1.116,Sunday
+2022-10-03, Texas Rangers, New York Yankees,4,4,0,1,0,0,0,0,0,1,0,0,0,0.311,0.426,0.686,1.112,Monday
+2022-10-04, Texas Rangers, New York Yankees,5,5,1,1,0,0,0,0,0,0,0,0,0,0.310,0.425,0.681,1.106,Tuesday
+2022-10-04, Texas Rangers, New York Yankees,2,2,1,1,0,0,1,1,0,1,0,0,0,0.311,0.425,0.686,1.111,Tuesday

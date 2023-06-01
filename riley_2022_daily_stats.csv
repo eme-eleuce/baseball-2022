@@ -1,0 +1,160 @@
+Date,Home Tm,Away Tm,PA,AB,R,H,2B,3B,HR,RBI,BB,SO,SB,CS,HBP,AVG,OBP,SLG,OPS,day_of_week
+2022-04-07, Atlanta Braves, Cincinnati Reds,4,4,1,3,0,0,1,2,0,0,0,0,0,0.750,0.750,1.500,2.250,Thursday
+2022-04-08, Atlanta Braves, Cincinnati Reds,5,3,1,0,0,0,0,0,2,0,0,0,0,0.429,0.556,0.857,1.413,Friday
+2022-04-09, Atlanta Braves, Cincinnati Reds,4,2,1,1,0,0,0,0,1,0,0,0,1,0.444,0.615,0.778,1.393,Saturday
+2022-04-10, Atlanta Braves, Cincinnati Reds,4,4,0,1,1,0,0,0,0,1,0,0,0,0.385,0.529,0.692,1.221,Sunday
+2022-04-11, Atlanta Braves, Washington Nationals,4,4,0,0,0,0,0,0,0,3,0,0,0,0.294,0.429,0.529,0.958,Monday
+2022-04-12, Atlanta Braves, Washington Nationals,6,4,1,1,1,0,0,2,2,0,0,0,0,0.286,0.444,0.524,0.968,Tuesday
+2022-04-13, Atlanta Braves, Washington Nationals,4,3,1,2,0,0,1,1,1,1,0,0,0,0.333,0.484,0.667,1.151,Wednesday
+2022-04-14, San Diego Padres, Atlanta Braves,4,4,0,0,0,0,0,0,0,2,0,0,0,0.286,0.429,0.571,1.000,Thursday
+2022-04-15, San Diego Padres, Atlanta Braves,5,5,2,2,1,0,0,0,0,1,0,0,0,0.303,0.425,0.576,1.001,Friday
+2022-04-16, San Diego Padres, Atlanta Braves,5,4,0,0,0,0,0,0,1,1,0,0,0,0.270,0.400,0.514,0.914,Saturday
+2022-04-17, San Diego Padres, Atlanta Braves,4,3,0,0,0,0,0,0,0,2,0,0,1,0.250,0.388,0.475,0.863,Sunday
+2022-04-18, Los Angeles Dodgers, Atlanta Braves,4,4,1,2,1,0,0,0,0,2,0,0,0,0.273,0.396,0.500,0.896,Monday
+2022-04-19, Los Angeles Dodgers, Atlanta Braves,4,4,0,2,0,0,0,1,0,0,1,0,0,0.292,0.404,0.500,0.904,Tuesday
+2022-04-22, Atlanta Braves, Miami Marlins,4,3,0,0,0,0,0,0,1,0,0,0,0,0.275,0.393,0.471,0.864,Friday
+2022-04-23, Atlanta Braves, Miami Marlins,5,5,1,1,0,0,1,1,0,2,0,0,0,0.268,0.379,0.500,0.879,Saturday
+2022-04-24, Atlanta Braves, Miami Marlins,5,5,1,3,2,0,1,2,0,1,0,0,0,0.295,0.394,0.590,0.984,Sunday
+2022-04-26, Atlanta Braves, Chicago Cubs,4,4,0,0,0,0,0,0,0,0,0,0,0,0.277,0.373,0.554,0.927,Tuesday
+2022-04-27, Atlanta Braves, Chicago Cubs,5,4,0,1,0,0,0,0,1,1,0,0,0,0.275,0.375,0.536,0.911,Wednesday
+2022-04-28, Atlanta Braves, Chicago Cubs,4,4,1,1,0,0,1,1,0,1,0,0,0,0.274,0.369,0.562,0.931,Thursday
+2022-04-29, Texas Rangers, Atlanta Braves,5,5,1,2,1,0,1,2,0,2,0,0,0,0.282,0.371,0.603,0.974,Friday
+2022-04-30, Texas Rangers, Atlanta Braves,4,4,0,0,0,0,0,0,0,1,0,0,0,0.268,0.355,0.573,0.928,Saturday
+2022-05-01, Texas Rangers, Atlanta Braves,4,2,0,1,0,0,0,1,1,1,0,0,1,0.274,0.371,0.571,0.942,Sunday
+2022-05-02, New York Mets, Atlanta Braves,4,4,1,2,0,0,1,1,0,0,0,0,0,0.284,0.376,0.602,0.978,Monday
+2022-05-03, New York Mets, Atlanta Braves,4,3,0,1,0,0,0,0,1,0,0,0,0,0.286,0.381,0.593,0.974,Tuesday
+2022-05-03, New York Mets, Atlanta Braves,4,4,0,0,0,0,0,0,0,2,0,0,0,0.274,0.367,0.568,0.935,Tuesday
+2022-05-04, New York Mets, Atlanta Braves,5,5,1,1,0,0,0,0,0,4,0,0,0,0.270,0.360,0.550,0.910,Wednesday
+2022-05-06, Atlanta Braves, Milwaukee Brewers,4,3,0,0,0,0,0,0,1,3,0,0,0,0.262,0.356,0.534,0.890,Friday
+2022-05-07, Atlanta Braves, Milwaukee Brewers,4,3,1,0,0,0,0,0,1,0,0,0,0,0.255,0.352,0.519,0.871,Saturday
+2022-05-08, Atlanta Braves, Milwaukee Brewers,5,5,0,1,0,0,0,0,0,2,0,0,0,0.252,0.346,0.505,0.851,Sunday
+2022-05-10, Atlanta Braves, Boston Red Sox,4,3,1,0,0,0,0,0,1,1,0,0,0,0.246,0.344,0.491,0.835,Tuesday
+2022-05-11, Atlanta Braves, Boston Red Sox,4,3,0,1,1,0,0,0,0,0,0,0,1,0.248,0.348,0.496,0.844,Wednesday
+2022-05-13, Atlanta Braves, San Diego Padres,5,5,0,0,0,0,0,0,0,2,0,0,0,0.238,0.336,0.475,0.811,Friday
+2022-05-14, Atlanta Braves, San Diego Padres,4,4,0,3,1,0,0,1,0,1,1,0,0,0.254,0.347,0.492,0.839,Saturday
+2022-05-15, Atlanta Braves, San Diego Padres,5,5,0,0,0,0,0,0,0,2,0,0,0,0.244,0.336,0.473,0.809,Sunday
+2022-05-16, Milwaukee Brewers, Atlanta Braves,4,4,0,1,0,0,0,0,0,1,0,0,0,0.244,0.333,0.467,0.800,Monday
+2022-05-17, Milwaukee Brewers, Atlanta Braves,4,4,0,0,0,0,0,0,0,1,0,0,0,0.237,0.325,0.453,0.778,Tuesday
+2022-05-18, Milwaukee Brewers, Atlanta Braves,5,5,1,2,0,0,1,3,0,1,0,0,0,0.243,0.327,0.472,0.799,Wednesday
+2022-05-20, Miami Marlins, Atlanta Braves,5,4,0,0,0,0,0,0,1,1,0,0,0,0.236,0.323,0.459,0.782,Friday
+2022-05-21, Miami Marlins, Atlanta Braves,4,4,0,0,0,0,0,0,0,0,0,0,0,0.230,0.316,0.447,0.763,Saturday
+2022-05-22, Miami Marlins, Atlanta Braves,4,4,0,0,0,0,0,0,0,2,0,0,0,0.224,0.309,0.436,0.745,Sunday
+2022-05-23, Atlanta Braves, Philadelphia Phillies,4,4,1,2,1,0,0,1,0,2,0,0,0,0.231,0.313,0.444,0.757,Monday
+2022-05-24, Atlanta Braves, Philadelphia Phillies,4,4,0,2,0,0,0,0,0,2,0,0,0,0.238,0.317,0.445,0.762,Tuesday
+2022-05-25, Atlanta Braves, Philadelphia Phillies,5,4,1,2,0,0,1,1,1,1,0,0,0,0.244,0.324,0.464,0.788,Wednesday
+2022-05-26, Atlanta Braves, Philadelphia Phillies,4,4,0,1,0,0,0,0,0,2,0,0,0,0.244,0.323,0.459,0.782,Thursday
+2022-05-27, Atlanta Braves, Miami Marlins,4,4,1,1,0,0,1,1,0,2,0,0,0,0.244,0.321,0.472,0.793,Friday
+2022-05-28, Atlanta Braves, Miami Marlins,4,4,0,1,0,0,0,0,0,3,0,0,0,0.244,0.320,0.467,0.787,Saturday
+2022-05-29, Atlanta Braves, Miami Marlins,4,4,2,2,1,0,1,2,0,0,0,0,0,0.250,0.324,0.489,0.813,Sunday
+2022-05-30, Arizona Diamondbacks, Atlanta Braves,4,4,1,1,0,0,1,1,0,1,0,0,0,0.250,0.322,0.500,0.822,Monday
+2022-05-31, Arizona Diamondbacks, Atlanta Braves,5,4,1,2,0,0,0,1,1,1,0,0,0,0.255,0.329,0.500,0.829,Tuesday
+2022-06-01, Arizona Diamondbacks, Atlanta Braves,5,5,1,2,0,0,1,3,0,1,0,0,0,0.259,0.330,0.513,0.843,Wednesday
+2022-06-02, Colorado Rockies, Atlanta Braves,5,5,2,3,2,0,0,1,0,2,0,0,0,0.267,0.336,0.525,0.861,Thursday
+2022-06-03, Colorado Rockies, Atlanta Braves,5,3,0,0,0,0,0,0,2,0,0,0,0,0.263,0.338,0.517,0.855,Friday
+2022-06-04, Colorado Rockies, Atlanta Braves,5,5,2,2,0,1,1,1,0,0,0,0,0,0.267,0.339,0.538,0.877,Saturday
+2022-06-05, Colorado Rockies, Atlanta Braves,5,5,1,1,0,0,0,1,0,2,0,0,0,0.265,0.336,0.530,0.866,Sunday
+2022-06-07, Atlanta Braves, Oakland Athletics,4,4,0,0,0,0,0,0,0,4,0,0,0,0.260,0.331,0.521,0.852,Tuesday
+2022-06-08, Atlanta Braves, Oakland Athletics,5,4,2,2,0,0,1,3,1,0,0,0,0,0.265,0.336,0.534,0.870,Wednesday
+2022-06-09, Atlanta Braves, Pittsburgh Pirates,4,4,0,1,0,0,0,0,0,1,0,0,0,0.264,0.335,0.529,0.864,Thursday
+2022-06-10, Atlanta Braves, Pittsburgh Pirates,4,4,0,0,0,0,0,0,0,2,0,0,0,0.260,0.329,0.519,0.848,Friday
+2022-06-11, Atlanta Braves, Pittsburgh Pirates,4,4,2,2,0,0,1,1,0,1,0,0,0,0.264,0.332,0.532,0.864,Saturday
+2022-06-12, Atlanta Braves, Pittsburgh Pirates,4,4,0,0,0,0,0,0,0,2,0,0,0,0.259,0.327,0.523,0.850,Sunday
+2022-06-13, Washington Nationals, Atlanta Braves,5,3,0,0,0,0,0,0,0,1,0,0,2,0.256,0.328,0.517,0.845,Monday
+2022-06-14, Washington Nationals, Atlanta Braves,5,4,1,0,0,0,0,0,0,0,0,0,1,0.252,0.326,0.508,0.834,Tuesday
+2022-06-15, Washington Nationals, Atlanta Braves,5,5,2,3,0,0,2,4,0,1,0,0,0,0.259,0.331,0.534,0.865,Wednesday
+2022-06-17, Chicago Cubs, Atlanta Braves,4,4,0,0,0,0,0,0,0,3,0,0,0,0.255,0.326,0.525,0.851,Friday
+2022-06-18, Chicago Cubs, Atlanta Braves,4,3,0,0,0,0,0,1,0,2,0,0,0,0.252,0.322,0.519,0.841,Saturday
+2022-06-19, Chicago Cubs, Atlanta Braves,4,4,1,2,1,0,0,1,0,0,0,0,0,0.256,0.324,0.523,0.847,Sunday
+2022-06-20, Atlanta Braves, San Francisco Giants,4,4,0,1,0,0,0,0,0,1,0,0,0,0.256,0.323,0.519,0.842,Monday
+2022-06-21, Atlanta Braves, San Francisco Giants,5,4,1,1,0,0,0,0,1,1,0,0,0,0.256,0.324,0.515,0.839,Tuesday
+2022-06-22, Atlanta Braves, San Francisco Giants,1,1,0,0,0,0,0,0,0,1,0,0,0,0.255,0.323,0.513,0.836,Wednesday
+2022-06-24, Atlanta Braves, Los Angeles Dodgers,4,3,0,0,0,0,0,0,1,0,0,0,0,0.252,0.322,0.507,0.829,Friday
+2022-06-25, Atlanta Braves, Los Angeles Dodgers,4,4,0,2,1,0,0,1,0,1,0,0,0,0.255,0.325,0.511,0.836,Saturday
+2022-06-26, Atlanta Braves, Los Angeles Dodgers,5,3,0,0,0,0,0,1,1,1,0,0,0,0.253,0.323,0.505,0.828,Sunday
+2022-06-28, Philadelphia Phillies, Atlanta Braves,4,4,0,1,1,0,0,0,0,2,0,0,0,0.253,0.322,0.505,0.827,Tuesday
+2022-06-29, Philadelphia Phillies, Atlanta Braves,4,3,0,0,0,0,0,0,1,0,0,0,0,0.250,0.321,0.500,0.821,Wednesday
+2022-06-30, Philadelphia Phillies, Atlanta Braves,4,4,1,3,0,0,0,0,0,0,0,0,0,0.257,0.326,0.503,0.829,Thursday
+2022-07-01, Cincinnati Reds, Atlanta Braves,5,4,2,2,0,0,1,3,1,2,0,0,0,0.260,0.330,0.514,0.844,Friday
+2022-07-02, Cincinnati Reds, Atlanta Braves,5,4,2,2,1,0,1,2,1,0,0,0,0,0.263,0.334,0.527,0.861,Saturday
+2022-07-03, Cincinnati Reds, Atlanta Braves,4,4,0,2,1,0,0,0,0,0,0,0,0,0.266,0.336,0.530,0.866,Sunday
+2022-07-04, Atlanta Braves, St. Louis Cardinals,4,4,0,0,0,0,0,0,0,1,0,0,0,0.263,0.332,0.523,0.855,Monday
+2022-07-05, Atlanta Braves, St. Louis Cardinals,4,4,1,3,1,0,1,3,0,0,0,0,0,0.269,0.337,0.538,0.875,Tuesday
+2022-07-06, Atlanta Braves, St. Louis Cardinals,3,3,1,2,1,0,0,0,0,0,0,0,0,0.273,0.340,0.543,0.883,Wednesday
+2022-07-07, Atlanta Braves, St. Louis Cardinals,5,4,0,2,0,0,0,0,1,2,0,0,0,0.276,0.344,0.542,0.886,Thursday
+2022-07-08, Atlanta Braves, Washington Nationals,5,5,1,1,1,0,0,0,0,1,0,0,0,0.275,0.342,0.540,0.882,Friday
+2022-07-09, Atlanta Braves, Washington Nationals,4,3,2,2,0,0,1,2,1,0,0,0,0,0.278,0.346,0.550,0.896,Saturday
+2022-07-10, Atlanta Braves, Washington Nationals,6,6,1,3,0,0,1,3,0,1,0,0,0,0.282,0.349,0.559,0.908,Sunday
+2022-07-11, Atlanta Braves, New York Mets,4,4,1,1,0,0,1,1,0,2,0,0,0,0.282,0.348,0.564,0.912,Monday
+2022-07-12, Atlanta Braves, New York Mets,4,4,0,1,0,0,0,0,0,2,0,0,0,0.282,0.347,0.560,0.907,Tuesday
+2022-07-13, Atlanta Braves, New York Mets,4,4,1,2,0,0,1,1,0,1,0,0,0,0.284,0.348,0.568,0.916,Wednesday
+2022-07-14, Washington Nationals, Atlanta Braves,4,4,0,1,0,0,0,0,0,0,0,0,0,0.284,0.347,0.564,0.911,Thursday
+2022-07-15, Washington Nationals, Atlanta Braves,5,5,1,1,0,0,1,2,0,1,0,0,0,0.282,0.345,0.568,0.913,Friday
+2022-07-16, Washington Nationals, Atlanta Braves,5,5,1,2,1,0,1,1,0,0,0,0,0,0.284,0.346,0.577,0.923,Saturday
+2022-07-17, Washington Nationals, Atlanta Braves,4,3,1,1,0,0,0,0,1,2,0,0,0,0.285,0.348,0.575,0.923,Sunday
+2022-07-22, Atlanta Braves, Los Angeles Angels,4,4,1,2,1,0,0,0,0,1,0,0,0,0.287,0.349,0.577,0.926,Friday
+2022-07-23, Atlanta Braves, Los Angeles Angels,4,4,2,3,0,0,1,2,0,0,0,0,0,0.292,0.353,0.586,0.939,Saturday
+2022-07-24, Atlanta Braves, Los Angeles Angels,4,3,0,1,0,0,0,0,1,2,0,0,0,0.292,0.354,0.584,0.938,Sunday
+2022-07-25, Philadelphia Phillies, Atlanta Braves,4,4,1,2,2,0,0,0,0,0,0,0,0,0.294,0.356,0.589,0.945,Monday
+2022-07-26, Philadelphia Phillies, Atlanta Braves,4,3,1,2,2,0,0,1,1,0,0,0,0,0.297,0.360,0.595,0.955,Tuesday
+2022-07-27, Philadelphia Phillies, Atlanta Braves,4,4,0,0,0,0,0,0,0,0,0,0,0,0.294,0.356,0.589,0.945,Wednesday
+2022-07-29, Atlanta Braves, Arizona Diamondbacks,4,4,1,3,2,0,1,3,0,1,0,0,0,0.299,0.360,0.603,0.963,Friday
+2022-07-30, Atlanta Braves, Arizona Diamondbacks,4,4,0,1,0,0,0,0,0,1,0,0,0,0.298,0.359,0.599,0.958,Saturday
+2022-07-31, Atlanta Braves, Arizona Diamondbacks,4,4,0,2,2,0,0,1,0,0,0,0,0,0.301,0.360,0.604,0.964,Sunday
+2022-08-02, Atlanta Braves, Philadelphia Phillies,5,4,1,1,0,0,0,0,1,2,0,0,0,0.300,0.361,0.600,0.961,Tuesday
+2022-08-03, Atlanta Braves, Philadelphia Phillies,4,4,0,1,1,0,0,0,0,1,0,0,0,0.300,0.360,0.599,0.959,Wednesday
+2022-08-04, New York Mets, Atlanta Braves,4,3,0,0,0,0,0,0,1,2,0,0,0,0.297,0.359,0.595,0.954,Thursday
+2022-08-05, New York Mets, Atlanta Braves,5,4,2,1,0,0,0,1,0,0,0,0,1,0.297,0.359,0.591,0.950,Friday
+2022-08-06, New York Mets, Atlanta Braves,5,4,1,2,1,0,0,0,0,0,0,0,1,0.299,0.362,0.593,0.955,Saturday
+2022-08-06, New York Mets, Atlanta Braves,4,4,0,0,0,0,0,0,0,2,0,0,0,0.296,0.359,0.587,0.946,Saturday
+2022-08-07, New York Mets, Atlanta Braves,4,4,0,1,0,0,0,0,0,3,0,0,0,0.296,0.358,0.584,0.942,Sunday
+2022-08-09, Boston Red Sox, Atlanta Braves,6,6,1,3,0,1,1,5,0,1,0,0,0,0.298,0.359,0.594,0.953,Tuesday
+2022-08-10, Boston Red Sox, Atlanta Braves,5,5,1,1,0,0,0,0,0,1,0,0,0,0.297,0.358,0.590,0.948,Wednesday
+2022-08-12, Miami Marlins, Atlanta Braves,4,4,0,1,1,0,0,0,0,0,0,0,0,0.297,0.357,0.589,0.946,Friday
+2022-08-13, Miami Marlins, Atlanta Braves,5,5,0,1,0,0,0,0,0,1,0,0,0,0.296,0.355,0.585,0.940,Saturday
+2022-08-13, Miami Marlins, Atlanta Braves,4,2,0,0,0,0,0,0,2,1,0,0,0,0.294,0.356,0.582,0.938,Saturday
+2022-08-14, Miami Marlins, Atlanta Braves,5,3,0,0,0,0,0,0,1,0,0,0,1,0.292,0.357,0.578,0.935,Sunday
+2022-08-15, Atlanta Braves, New York Mets,5,5,1,1,0,0,0,0,0,0,0,0,0,0.291,0.355,0.574,0.929,Monday
+2022-08-16, Atlanta Braves, New York Mets,4,3,1,0,0,0,0,0,1,0,0,0,0,0.289,0.354,0.570,0.924,Tuesday
+2022-08-17, Atlanta Braves, New York Mets,4,3,0,0,0,0,0,0,0,1,0,0,1,0.288,0.354,0.566,0.920,Wednesday
+2022-08-18, Atlanta Braves, New York Mets,4,4,0,2,0,0,0,1,0,2,0,0,0,0.289,0.355,0.566,0.921,Thursday
+2022-08-19, Atlanta Braves, Houston Astros,5,4,1,2,0,0,1,3,0,0,0,0,1,0.291,0.357,0.572,0.929,Friday
+2022-08-20, Atlanta Braves, Houston Astros,5,4,1,0,0,0,0,0,1,1,0,0,0,0.289,0.356,0.567,0.923,Saturday
+2022-08-21, Atlanta Braves, Houston Astros,4,4,0,0,0,0,0,0,0,1,0,0,0,0.286,0.353,0.562,0.915,Sunday
+2022-08-22, Pittsburgh Pirates, Atlanta Braves,4,4,0,0,0,0,0,0,0,1,0,0,0,0.284,0.350,0.557,0.907,Monday
+2022-08-23, Pittsburgh Pirates, Atlanta Braves,4,2,0,1,0,0,0,2,1,1,0,0,0,0.285,0.351,0.557,0.908,Tuesday
+2022-08-24, Pittsburgh Pirates, Atlanta Braves,6,5,1,1,0,0,0,2,0,1,0,0,1,0.284,0.351,0.553,0.904,Wednesday
+2022-08-26, St. Louis Cardinals, Atlanta Braves,5,2,1,0,0,0,0,0,3,0,0,0,0,0.283,0.353,0.551,0.904,Friday
+2022-08-27, St. Louis Cardinals, Atlanta Braves,4,4,1,3,1,0,0,1,0,0,0,0,0,0.287,0.356,0.555,0.911,Saturday
+2022-08-28, St. Louis Cardinals, Atlanta Braves,4,4,0,1,0,0,0,0,0,1,0,0,0,0.286,0.356,0.552,0.908,Sunday
+2022-08-30, Atlanta Braves, Colorado Rockies,5,4,1,2,1,0,0,0,1,1,0,0,0,0.288,0.358,0.554,0.912,Tuesday
+2022-08-31, Atlanta Braves, Colorado Rockies,4,4,1,1,0,0,1,2,0,2,0,0,0,0.288,0.357,0.558,0.915,Wednesday
+2022-09-01, Atlanta Braves, Colorado Rockies,4,4,1,2,0,0,1,1,0,1,0,0,0,0.289,0.358,0.563,0.921,Thursday
+2022-09-02, Atlanta Braves, Miami Marlins,4,3,1,1,0,0,1,1,1,1,0,0,0,0.290,0.359,0.568,0.927,Friday
+2022-09-03, Atlanta Braves, Miami Marlins,4,3,1,1,0,0,1,1,1,1,0,0,0,0.290,0.360,0.572,0.932,Saturday
+2022-09-04, Atlanta Braves, Miami Marlins,5,5,0,0,0,0,0,0,0,3,0,0,0,0.287,0.357,0.566,0.923,Sunday
+2022-09-06, Oakland Athletics, Atlanta Braves,5,3,1,1,0,0,0,1,1,0,0,0,0,0.287,0.357,0.565,0.922,Tuesday
+2022-09-07, Oakland Athletics, Atlanta Braves,5,4,0,0,0,0,0,0,0,1,0,0,1,0.285,0.356,0.561,0.917,Wednesday
+2022-09-09, Seattle Mariners, Atlanta Braves,5,5,0,1,0,0,0,0,0,2,0,0,0,0.284,0.355,0.557,0.912,Friday
+2022-09-10, Seattle Mariners, Atlanta Braves,4,4,0,0,0,0,0,0,0,2,0,0,0,0.282,0.352,0.553,0.905,Saturday
+2022-09-11, Seattle Mariners, Atlanta Braves,4,3,2,1,0,0,1,1,1,1,0,0,0,0.283,0.353,0.558,0.911,Sunday
+2022-09-12, San Francisco Giants, Atlanta Braves,4,4,0,1,0,0,0,0,0,0,0,0,0,0.282,0.353,0.555,0.908,Monday
+2022-09-13, San Francisco Giants, Atlanta Braves,5,4,0,0,0,0,0,0,1,0,0,0,0,0.280,0.351,0.551,0.902,Tuesday
+2022-09-14, San Francisco Giants, Atlanta Braves,4,4,0,0,0,0,0,0,0,3,0,0,0,0.278,0.349,0.547,0.896,Wednesday
+2022-09-16, Atlanta Braves, Philadelphia Phillies,4,3,1,1,1,0,0,0,1,1,0,0,0,0.278,0.350,0.548,0.898,Friday
+2022-09-17, Atlanta Braves, Philadelphia Phillies,4,4,0,1,0,0,0,0,0,1,0,0,0,0.278,0.349,0.546,0.895,Saturday
+2022-09-18, Atlanta Braves, Philadelphia Phillies,4,4,0,1,0,0,0,1,0,2,0,0,0,0.278,0.349,0.544,0.893,Sunday
+2022-09-19, Atlanta Braves, Washington Nationals,4,3,2,1,0,0,1,1,1,0,0,0,0,0.278,0.350,0.548,0.898,Monday
+2022-09-20, Atlanta Braves, Washington Nationals,4,4,0,0,0,0,0,0,0,1,0,0,0,0.276,0.347,0.544,0.891,Tuesday
+2022-09-21, Atlanta Braves, Washington Nationals,4,4,0,1,0,0,0,0,0,1,0,0,0,0.276,0.347,0.542,0.889,Wednesday
+2022-09-22, Philadelphia Phillies, Atlanta Braves,4,3,0,3,1,0,0,0,0,0,0,0,1,0.280,0.351,0.546,0.897,Thursday
+2022-09-23, Philadelphia Phillies, Atlanta Braves,4,3,0,2,0,0,0,0,1,0,0,0,0,0.282,0.353,0.547,0.900,Friday
+2022-09-24, Philadelphia Phillies, Atlanta Braves,5,5,0,0,0,0,0,0,0,1,0,0,0,0.280,0.351,0.542,0.893,Saturday
+2022-09-25, Philadelphia Phillies, Atlanta Braves,6,6,0,1,0,0,0,0,0,4,0,0,0,0.278,0.349,0.538,0.887,Sunday
+2022-09-26, Washington Nationals, Atlanta Braves,4,1,2,0,0,0,0,0,2,0,0,0,1,0.278,0.351,0.537,0.888,Monday
+2022-09-27, Washington Nationals, Atlanta Braves,5,4,0,0,0,0,0,0,1,0,0,0,0,0.276,0.350,0.534,0.884,Tuesday
+2022-09-28, Washington Nationals, Atlanta Braves,4,3,0,0,0,0,0,0,1,0,0,0,0,0.275,0.350,0.531,0.881,Wednesday
+2022-09-30, Atlanta Braves, New York Mets,4,4,1,1,0,0,1,1,0,2,0,0,0,0.275,0.349,0.534,0.883,Friday
+2022-10-01, Atlanta Braves, New York Mets,4,4,1,3,1,0,0,0,0,1,0,0,0,0.278,0.351,0.537,0.888,Saturday
+2022-10-02, Atlanta Braves, New York Mets,4,3,1,0,0,0,0,0,0,0,0,0,1,0.276,0.351,0.535,0.886,Sunday
+2022-10-03, Miami Marlins, Atlanta Braves,4,4,0,0,0,0,0,0,0,4,0,0,0,0.275,0.349,0.531,0.880,Monday
+2022-10-04, Miami Marlins, Atlanta Braves,5,3,0,0,0,0,0,0,2,1,0,0,0,0.273,0.349,0.528,0.877,Tuesday
