@@ -1,6 +1,6 @@
 import pandas as pd
 
-arraez = pd.read_csv('arraez-full-2023.csv')
+arraez = pd.read_csv('savant_data.csv')
 
 arraez['count'] = arraez['balls'].astype(str) + '-' + arraez['strikes'].astype(str)
 arraez['pfx_z_inches'] = arraez['pfx_z'] * 12
@@ -9,7 +9,22 @@ arraez['pitch_name'] = arraez['pitch_name'].str.replace('4-Seam Fastball', 'Four
 
 # Pitch Group:
 
+def classify_pitch_group(pitch_name):
+    fastballs = ['Four-Seam', 'Sinker', 'Cutter']
+    breaking_balls = ['Curveball', 'Knuckle Curve', 'Slider', 'Sweeper', 'Slurve', 'Knuckleball']
+    offspeed_balls = ['Changeup', 'Split-Finger', 'Forkball', 'Screwball']
+    
+    if pitch_name in fastballs:
+        return 'Fastballs'
+    elif pitch_name in breaking_balls:
+        return 'Breaking balls'
+    elif pitch_name in offspeed_balls:
+        return 'Offspeed balls'
+    else:
+        return 'Other'
 
+# Apply the classification to create the new column 'pitch_group'
+arraez['pitch_group'] = arraez['pitch_name'].apply(classify_pitch_group)
 
 # Launch Angle and Exit velocity:
 
@@ -50,4 +65,4 @@ cols = arraez.columns.tolist()
 cols.insert(0, cols.pop(cols.index('pitch_name')))
 df = arraez[cols]
 # Print the updated DataFrame
-df.to_csv('arraez-2023-last.csv', index=False)
+df.to_csv('schwarber-2023.csv', index=False)
