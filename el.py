@@ -65,4 +65,4 @@ cols = arraez.columns.tolist()
 cols.insert(0, cols.pop(cols.index('pitch_name')))
 df = arraez[cols]
 # Print the updated DataFrame
-df.to_csv('schwarber-2023.csv', index=False)
+df.to_csv('skubal-2024.csv', index=False)
